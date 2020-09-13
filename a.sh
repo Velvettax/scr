@@ -1,4 +1,3 @@
-#!/bin/bash
 sudo git clone https://github.com/xmrig/xmrig.git
 cd xmrig
 sudo mkdir build
